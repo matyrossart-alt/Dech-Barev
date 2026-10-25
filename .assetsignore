@@ -1,0 +1,5 @@
+wrangler.jsonc
+.assetsignore
+README_podklady.md
+.git
+node_modules
